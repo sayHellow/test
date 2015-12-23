@@ -1,4 +1,4 @@
-为了搭建一个可持续框架
+为了搭建一个可持续集成框架
 项目
  spring mvc + mybaits + mvn + git
 自动化guanli
